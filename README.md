@@ -1,3 +1,3 @@
-### hi hi hi
+### this is my page on github dot com!!!!!!!!!
 
-check out my [website](https://southlondon.cc/~leah)
+look at my [website](https://jank.chat)
