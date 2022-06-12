@@ -1,3 +1,3 @@
-### this is my page on github dot com!!!!!!!!!
+### hi this is my git hub profile
 
-look at my [website](https://jank.chat)
+if you're interested in hiring me for a thing please send one email to leahclarm at gmail dot com thank you
