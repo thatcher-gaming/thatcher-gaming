@@ -1,5 +1,3 @@
-# HELLO YOU
+**"leah clark" on "git hub"**
 
-i rarely use github because of the ice thing and also the won't stop defaulting me to the "for you" tab when i go to my dashboard thing.
-
-go look at my [sourcehut](https://sr.ht/~leah). theres code on there. it's insane.
+this is my git hub thing. there is more code on my [sourcehut](https://sr.ht/~leah) page because i use it more often. thank you for listening to my readme
